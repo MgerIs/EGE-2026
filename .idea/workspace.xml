@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="условные операторы и логические типы данных">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.01.25" beforeDir="false" />
-    </list>
+    <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="git ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,13 +194,22 @@
       <option name="project" value="LOCAL" />
       <updated>1737561580793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git ignore">
+      <option name="closed" value="true" />
+      <created>1737801517890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737801517890</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="типы данных" />
     <MESSAGE value="арифметика" />
     <MESSAGE value="условные операторы и логические типы данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="условные операторы и логические типы данных" />
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
   </component>
 </project>
