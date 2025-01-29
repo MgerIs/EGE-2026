@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="работа с модулями и слэш библиотеками и пакетами">
-      <change afterPath="$PROJECT_DIR$/25.01.25/lesson 4.1.py" afterDir="false" />
+    <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="циклы">
+      <change afterPath="$PROJECT_DIR$/29.01.25/Lesson 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.4.2.executor": "Run",
     "Python.LESSON 4.executor": "Run",
+    "Python.Lesson 5.executor": "Run",
     "Python.lesson 3.1.executor": "Run",
     "Python.lesson 3.executor": "Run",
     "Python.lesson 4.1.executor": "Run",
@@ -61,6 +64,28 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE-2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25.01.25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25.01.25/4.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LESSON 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE-2026" />
       <option name="ENV_FILES" value="" />
@@ -127,28 +152,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE-2026" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18.01.2025" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18.01.2025/lesson-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lesson-2,1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE-2026" />
       <option name="ENV_FILES" value="" />
@@ -173,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.2" />
         <item itemvalue="Python.LESSON 4" />
         <item itemvalue="Python.lesson 3.1" />
         <item itemvalue="Python.lesson 3" />
         <item itemvalue="Python.lesson-2,1" />
-        <item itemvalue="Python.lesson-2" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737803607033</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="циклы">
+      <option name="closed" value="true" />
+      <created>1737805589470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737805589470</updated>
+    </task>
+    <task id="LOCAL-00008" summary="циклы">
+      <option name="closed" value="true" />
+      <created>1737806065549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737806065549</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,6 +273,7 @@
     <MESSAGE value="условные операторы и логические типы данных" />
     <MESSAGE value="git ignore" />
     <MESSAGE value="работа с модулями и слэш библиотеками и пакетами" />
-    <option name="LAST_COMMIT_MESSAGE" value="работа с модулями и слэш библиотеками и пакетами" />
+    <MESSAGE value="циклы" />
+    <option name="LAST_COMMIT_MESSAGE" value="циклы" />
   </component>
 </project>
