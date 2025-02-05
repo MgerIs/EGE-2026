@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="циклы">
-      <change afterPath="$PROJECT_DIR$/29.01.25/Lesson 5.py" afterDir="false" />
+    <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="простые числа">
+      <change afterPath="$PROJECT_DIR$/05.02.25/lesson 7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29.01.25/Lesson 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/29.01.25/Lesson 5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +55,27 @@
     "Python.lesson 3.1.executor": "Run",
     "Python.lesson 3.executor": "Run",
     "Python.lesson 4.1.executor": "Run",
+    "Python.lesson 5.1.executor": "Run",
+    "Python.lesson 6.executor": "Run",
+    "Python.lesson 7.executor": "Run",
     "Python.lesson-1.executor": "Run",
     "Python.lesson-2,1.executor": "Run",
     "Python.lesson-2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MIsabekyan/Desktop/EGE-2026/05.02.25",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MIsabekyan\Desktop\EGE-2026\05.02.25" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MIsabekyan\Desktop\EGE-2026\homeworks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE-2026" />
@@ -264,7 +277,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737806065549</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="циклы">
+      <option name="closed" value="true" />
+      <created>1738166134453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738166134453</updated>
+    </task>
+    <task id="LOCAL-00010" summary="циклы">
+      <option name="closed" value="true" />
+      <created>1738409462800</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738409462800</updated>
+    </task>
+    <task id="LOCAL-00011" summary="простые числа">
+      <option name="closed" value="true" />
+      <created>1738409491639</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738409491639</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +311,7 @@
     <MESSAGE value="git ignore" />
     <MESSAGE value="работа с модулями и слэш библиотеками и пакетами" />
     <MESSAGE value="циклы" />
-    <option name="LAST_COMMIT_MESSAGE" value="циклы" />
+    <MESSAGE value="простые числа" />
+    <option name="LAST_COMMIT_MESSAGE" value="простые числа" />
   </component>
 </project>
