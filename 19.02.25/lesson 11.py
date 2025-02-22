@@ -8,53 +8,25 @@
 #     else:
 #         b += i
 # print(b)
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+
+
+
 # q = input()
 # if '0' in q or '1' in q or '2' in q or '3' in q or '4' in q or '5' in q or '6' in q or '7' in q or '8' in q or '9' in q:
 #     print(False)
 # else:
 #     print(True)
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+
+
+
 # d = input()
 # c = ""
 # for i in d:
 #     if '0'<=i<="9":
 #         c +=i
 #         print(c)
-#
-#
-#
-#
-#
-#
-#
-#
-
-
-
 
 
 
