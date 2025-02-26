@@ -15,8 +15,3 @@ while old in text and cnt > 0:
     text = text_before_old + new + text_after_old
     cnt -= 1
 print(text)
-
-
-
-
-
