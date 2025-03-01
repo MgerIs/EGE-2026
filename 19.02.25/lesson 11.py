@@ -1,13 +1,13 @@
-# from gettext import dgettext
-#
-# a = input()
-# b = ""
-# for i in a:
-#     if "A"<=i<="Z":
-#         b += chr(ord(i)+ 32)
-#     else:
-#         b += i
-# print(b)
+from gettext import dgettext
+
+a = input()
+b = ""
+for i in a:
+    if "A"<=i<="Z":
+        b += chr(ord(i)+ 32)
+    else:
+        b += i
+print(b)
 
 
 
