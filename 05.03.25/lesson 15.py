@@ -1,4 +1,4 @@
-rom timeit import timeit
+from timeit import timeit
 
 
 def find_max_str_1(data):
