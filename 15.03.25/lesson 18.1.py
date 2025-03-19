@@ -35,7 +35,7 @@ l4 = []
 for i in range(100):
     data.append(randint(1, 1000))
 
-data[0],data[-1] = data[-1], data[0]
+data[0],data[-1] = data[-1], data[02]
 print(data)
 
 
