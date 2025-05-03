@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="дзшечка шедевральная чекайте дедушку моргенштерна">
+      <change afterPath="$PROJECT_DIR$/02.04.25/26_4684 (3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.04.25/lesson 23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.05.25/lesson 33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.04.25/lesson 32.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.04.25/lesson 32.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/btc/bitcoin farm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework228.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/podgotovka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +59,12 @@
   "keyToString": {
     "Python.bitcoin farm.executor": "Run",
     "Python.homework 31.executor": "Run",
+    "Python.homework.executor": "Run",
     "Python.homework228.executor": "Run",
     "Python.hw.executor": "Run",
+    "Python.lesson 23.executor": "Run",
     "Python.lesson 3.executor": "Run",
+    "Python.lesson 32.executor": "Run",
     "Python.lesson-1.executor": "Run",
     "Python.lesson-2,1.executor": "Run",
     "Python.lesson-2.executor": "Run",
@@ -66,10 +72,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mger/PycharmProjects/EGE-2026/02.04.25",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mger\PycharmProjects\EGE-2026\02.04.25" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mger\PycharmProjects\EGE-2026" />
       <recent name="C:\Users\mger\PycharmProjects\EGE-2026\homeworks" />
@@ -221,8 +231,27 @@
       <option name="project" value="LOCAL" />
       <updated>1738359734608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="дзшечка шедевральная чекайте дедушку моргенштерна">
+      <option name="closed" value="true" />
+      <created>1738975271056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738975271056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="типы данных" />
