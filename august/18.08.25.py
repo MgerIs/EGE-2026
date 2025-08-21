@@ -32,8 +32,10 @@ from re import finditer, match
 #     pattern = r"[A-ZА-ЯЁ][a-zа-яё]*\b"
 #     matches = [match.group() for match in finditer(pattern, data)]
 #     print(matches)
-with open(f'Regexp contest/regexp-practice-6    .txt', encoding="utf-8") as file:
-    data = file.read()
-    pattern = r"[A-ZA-ЯЁ]{2}-\d{4}"
-    matches = [match.group() for match in finditer(pattern, data)]
-    print(matches)
+# with open(f'Regexp contest/regexp-practice-6    .txt', encoding="utf-8") as file:
+#     data = file.read()
+#     pattern = r"[A-ZA-ЯЁ]{2}-\d{4}"
+#     matches = [match.group() for match in finditer(pattern, data)]
+#     print(matches)
+
+

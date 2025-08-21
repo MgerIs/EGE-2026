@@ -40,7 +40,7 @@ print(findall(pattern4, data4))
 pattern5 = "K/dT"
 print(findall(pattern5, data4))
 
-# /d - любая нецифра
+# /D - любая нецифра
 # /s - любой пробельный символ(ENTER, SPACE, TAB)
 # \S – любой НЕ пробельный символ
 # \w – любая буква, цифра или _
