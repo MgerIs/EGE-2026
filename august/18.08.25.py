@@ -38,4 +38,60 @@ from re import finditer, match
 #     matches = [match.group() for match in finditer(pattern, data)]
 #     print(matches)
 
+with open(f'Regexp contest/regexp-practice-8.txt', encoding="utf-8") as file:
+    data = file.read()
+    pattern = r"(?:\+?7|8)\s?\(?(\d{3})\)?\s?(\d{3})(?:[- ]?(\d{2})[- ]?(\d{2})|(\d{4}))"
+    matches = [match.group() for match in finditer(pattern, data)]
+    print(matches)
+
+
+# with open(f'Regexp contest/regexp-practice-9.txt', encoding="utf-8") as file:
+#     data = file.read()
+#     pattern = r"[^<].+[^>].+"
+#     matches = [match.group() for match in finditer(pattern, data)]
+#     print(matches) ???
+
+# with open(f'Regexp contest/regexp-practice-10.txt', encoding="utf-8") as file:
+#     data = file.read()
+#     mat2 = []
+#     mat3 = []
+#     pattern = r"[0-9]*[-_]*"
+#     matches = [match.group() for match in finditer(pattern, data)]
+#     print(matches)
+#     for i in matches:
+#         if bool(i) == True:
+#             mat2.append(i)
+#     print(mat2) ???
+
+
+with open(f'Regexp contest/regexp-practice-11.txt', encoding="utf-8") as file:
+    data  = file.read()
+    pattern = r"^<[a-zA-Z]^>.+"
+    matches = [match.group() for match in finditer(pattern, data)]
+    print(matches)
+
+with open(f'Regexp contest/regexp-practice-12.txt', encoding="utf-8") as file:
+    data = file.read()
+    mat2 = []
+    pattern = r"[a-zA-Z_-]+@[a-zA-Z-_]+\.\w+"
+    matches = [match.group() for match in finditer(pattern, data)]
+    print(matches)
+    lowercase = [s.lower() for s in matches]
+    print(lowercase)
+
+# 13 ????
+
+
+with open(f'Regexp contest/regexp-practice-14.txt', encoding="utf-8") as file:
+    data = file.read()
+    pattern = r"([A-Z-А-ЯЁ][a-z-а-яё]+ [A-Z-А-ЯЁ][a-z-а-яё]+ [A-Z-А-ЯЁ][a-z-а-яё]+)"
+    matches = [match.group() for match in finditer(pattern, data)]
+    print(matches)
+
+# with open(f'Regexp contest/regexp-practice-15.txt', encoding="utf-8") as file:
+#     data = file.read()
+#     pattern = r""
+#     matches = [match.group() for match in finditer(pattern, data)]
+#     print(matches) ???
+
 
