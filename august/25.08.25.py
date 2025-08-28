@@ -24,7 +24,7 @@ with open("24-314.txt") as file:
     must_1 = r"F"
     pattern = fr"(?<={must_1})({number}[+*])+{number}"
     matches = [match.group() for match in finditer(pattern, data)]
-    print(matches)
+
 
 
 
