@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32394f93-6c55-4736-96cf-3da702fd5022" name="Changes" comment="дзшечка шедевральная чекайте дедушку моргенштерна">
-      <change afterPath="$PROJECT_DIR$/august/Regexp contest/28.08.25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tester/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/august/24_4710.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/august/24_7600 (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/august/24_7624.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/august/24_8510.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/august/28.08.25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/homework 31.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework 31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/august/25.08.25.py" beforeDir="false" afterPath="$PROJECT_DIR$/august/25.08.25.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MgerIs/EGE-2026.git&quot;,
-    &quot;accountId&quot;: &quot;d838e7ed-9d12-4811-a917-b1e3f81cb3e0&quot;
+    &quot;accountId&quot;: &quot;9ad39d79-8230-4439-bc3c-4e4a1e134d35&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -51,41 +54,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18.08.25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.25.08.25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bitcoin farm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework 31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework228.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson-2,1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.podgotovka.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MIsabekyan/PycharmProjects/EGE-2026&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.18.08.25.executor": "Run",
+    "Python.25.08.25.executor": "Run",
+    "Python.28.08.25.executor": "Run",
+    "Python.bitcoin farm.executor": "Run",
+    "Python.homework 31.executor": "Run",
+    "Python.homework.executor": "Run",
+    "Python.homework228.executor": "Run",
+    "Python.hw.executor": "Run",
+    "Python.lesson 23.executor": "Run",
+    "Python.lesson 3.executor": "Run",
+    "Python.lesson 32.executor": "Run",
+    "Python.lesson-1.executor": "Run",
+    "Python.lesson-2,1.executor": "Run",
+    "Python.lesson-2.executor": "Run",
+    "Python.podgotovka.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MIsabekyan/PycharmProjects/EGE-2026/august",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MIsabekyan\PycharmProjects\EGE-2026\august" />
       <recent name="C:\Users\mger\PycharmProjects\EGE-2026\02.04.25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MIsabekyan\PycharmProjects\EGE-2026\august" />
       <recent name="C:\Users\mger\PycharmProjects\EGE-2026" />
       <recent name="C:\Users\mger\PycharmProjects\EGE-2026\homeworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw">
+  <component name="RunManager">
     <configuration name="hw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE-2026" />
       <option name="ENV_FILES" value="" />
@@ -186,7 +190,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
