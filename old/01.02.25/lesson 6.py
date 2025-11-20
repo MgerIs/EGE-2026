@@ -56,3 +56,31 @@ if a%2 == 0:
 else:
 
 
+
+
+
+
+
+
+
+
+
+
+
+from functools import*
+def H(p):
+    return p-3, p-5, p//2
+@lru_cache(None)
+def f(p):
+    if p <= N: return "L"
+    return "W" if any(f(h)=="L" for h in H(p)) else "L"
+@lru_cache(None)
+def c(p):
+    if p <= N:
+        return 0
+    if f(p) == "L": return 1+max(c(h) for h in H(p))
+    return 1+min(c(h) for h in H(p) if f(h)=="L")
+print("19:", [s for s in range(1,N) if c(s)==2])
+print("20:", [s for s in range(1,N) if c(s)==3])
+print("21:", [s for s in range(1,N) if c(s)==4])
+
