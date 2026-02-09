@@ -11,4 +11,4 @@ for i in permutations('названия вершин'):
     # str(i.index(x) + 1) in matrix[i.index(y)] - проверка, что столбец x пересекается со строкой y;
     # all() - проверяет, что все ребра существуют при текущей перестановке i;
     if all(str(i.index(x) + 1) in matrix[i.index(y)] for x, y in graph):
-       print(*i)
+       print(*i)    
