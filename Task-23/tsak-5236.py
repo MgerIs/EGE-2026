@@ -4,4 +4,3 @@ def f(s, e, cnt):
     return f(s + 2, e, cnt + 1) + f(s * 3, e, cnt + 1) + f(s * 4, e, cnt + 1)
 
 print(f(2, 400, 0))
-
