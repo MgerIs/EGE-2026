@@ -1,6 +1,5 @@
 s = set()
 
-
 def f(x, cnt):
     if cnt == 6:
         s.add(x)

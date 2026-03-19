@@ -1,5 +1,5 @@
 from functools import *
-@lru_cache(None)
+
 def f(n):
     return g(n-1) + g(n-3)
 @lru_cache(None)
