@@ -1,5 +1,5 @@
 s = []
-a = [int(x) for x in open("17_17558.txt")]
+a = [int(x) for x in open("files/17_17558.txt")]
 mn32 = [x for x in a if abs(x)%32==0]
 for p,v in zip(a,a[1:]):
     c1 = (p<0) + (v<0) >= 1

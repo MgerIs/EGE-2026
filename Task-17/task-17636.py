@@ -1,4 +1,4 @@
-s=[int(x) for x in open('17_17636.txt')]
+s=[int(x) for x in open('files/17_17636.txt')]
 a=[int(x) for x in s]
 m=-100001
 for i in range(len(a)):
