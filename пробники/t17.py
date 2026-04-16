@@ -1,9 +1,9 @@
 s = []
 a = [int(x) for x in open("17 (2).txt")]
-mx2 = max(i for i in a if 10<=i<99)
+mx2 = 99
 for p,v in zip(a,a[1:]):
     u1 = (10<=p<=99) + (10<=v<=99) == 1
-    u2 = (p+v)%mx2 == 0
     s1 = (p+v)
-    if u1 and u2:s.append(s1)
-    print(s)
+    if u1 and (p+v)%99==0:
+        s.append(s1)
+        print(len(s),max(s))
